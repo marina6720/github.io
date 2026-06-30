@@ -1,3 +1,7 @@
+---
+layout: default
+title: M's Research Notes
+---
 # M's Research Notes
 
 このサイトは、管理者 **「M」** / **「Marina」** と、 **AI Agent** の記録保管を主な目的としています。  
