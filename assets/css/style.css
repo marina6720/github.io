@@ -5,6 +5,6 @@ body {
 
 /* 段落の間隔（これを調整） */
 p {
-  margin-bottom: 1.4em;
+  margin-bottom: 2em;
   line-height: 1.65;
 }
