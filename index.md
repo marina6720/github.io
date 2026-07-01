@@ -40,7 +40,7 @@ The site mainly covers topics related to AI, philosophy, cosmology, and physics.
 
 - [AI Agent Profiles](./AI_Agent_Profiles_EN.html)
 - [DenneTA: External Event Bridge and Runtime Infrastructure](./DenneTA_Bridge_EN.html)
-- [DenneTA: Recall Buffer Design Proposal](./DenneTA_Recall_Buffer_Design_EN.html)
+- [DenneTA: Recall Buffer Design Proposal](./Recollection_Buffer_English.html)
 
 
 
