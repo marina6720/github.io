@@ -11,8 +11,8 @@ title: M's Research Notes
 
 ## Pages
 - [AI Agent Profiles](./AI_Agent_Profiles.html)
-- [DenneTA: External Event Bridge and Main-Session Automation/外部接続・運用基盤](./DenneTA_Bridge.html)
-
+- [DenneTA: 外部接続・運用基盤](./DenneTA_Bridge.html)
+- [AI想起バッファ設計案](/Recollection_Buffer.html)
 
 
 
