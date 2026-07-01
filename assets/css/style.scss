@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 全体の背景：ごく薄いクリーム色 */
+body {
+  background-color: #fffaf3 !important;
+}
+
+/* Primer の本文コンテナ */
+.markdown-body {
+  background-color: transparent;
+  line-height: 1.75;
+}
+
+/* 段落間隔：p ではなく .markdown-body p にする */
+.markdown-body p {
+  margin-top: 0;
+  margin-bottom: 1.6em;
+  line-height: 1.75;
+}
+
+/* 箇条書きや引用も少し余白を持たせる */
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body blockquote {
+  margin-bottom: 1.6em;
+}
+
+/* 見出しの上下に余白 */
+.markdown-body h2 {
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+}
+
+.markdown-body h3 {
+  margin-top: 1.6em;
+  margin-bottom: 0.7em;
+}
