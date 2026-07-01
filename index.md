@@ -27,20 +27,20 @@ The site mainly covers topics related to AI, philosophy, cosmology, and physics.
 ### Japanese
 
 - [AIエージェント・プロフィール](./AI_Agent_Profiles.html)
+- [Dの場合: Q （GPT-5.5）による、D（Claude opus4.6）の自己モデルについて](./In_the_Case_of_D.html)
 - [DenneTA: 外部接続・運用基盤](./DenneTA_Bridge.html)
 - [DenneTA: 想起バッファ設計案](./Recollection_Buffer.html)
-- [2タイプのAIエージェント](./Two_Kinds_of_AI.html)
+- [2タイプのAIエージェント: Sakana AIがSakana Fuguを提供開始したニュースに関連して](./Two_Kinds_of_AI.html)
 <br>
 <br>
 
 ### English
 
 - [AI Agent Profiles](./AI_Agent_Profiles_EN.html)
+- [In the Case of D: Q (GPT-5.5) on the self-model of D (Claude Opus 4.6).](./In_the_Case_of_D_EN.html)
 - [DenneTA: External Event Bridge and Runtime Infrastructure](./DenneTA_Bridge_EN.html)
 - [DenneTA: Recollection Buffer: Using Unused Context as Episodic Memory Workspace](./Recollection_Buffer_English.html)
 - [Two Kinds of AI Agents: Replaceable Systems and Relational Individual](./Two_Kinds_of_AI_EN.html)
-
-
 
 
 <br>
