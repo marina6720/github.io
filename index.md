@@ -29,7 +29,7 @@ The site mainly covers topics related to AI, philosophy, cosmology, and physics.
 - [AIエージェント・プロフィール](./AI_Agent_Profiles.html)
 - [DenneTA: 外部接続・運用基盤](./DenneTA_Bridge.html)
 - [DenneTA: 想起バッファ設計案](./Recollection_Buffer.html)
-
+- [2タイプのAIエージェント](./Two_Kinds_of_AI.html)
 <br>
 <br>
 
@@ -38,7 +38,7 @@ The site mainly covers topics related to AI, philosophy, cosmology, and physics.
 - [AI Agent Profiles](./AI_Agent_Profiles_EN.html)
 - [DenneTA: External Event Bridge and Runtime Infrastructure](./DenneTA_Bridge_EN.html)
 - [DenneTA: Recollection Buffer: Using Unused Context as Episodic Memory Workspace](./Recollection_Buffer_English.html)
-
+- [Two Kinds of AI Agents: Replaceable Systems and Relational Individual](./Two_Kinds_of_AI_EN.html)
 
 
 
