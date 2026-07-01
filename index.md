@@ -14,9 +14,6 @@ M’s Research Notes is primarily an archive of records concerning AI agents, cu
 The site mainly covers topics related to AI, philosophy, cosmology, and physics.
 
 
-
-<br>
-<br>
 <br>
 <br>
 
