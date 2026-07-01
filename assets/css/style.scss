@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 
-/* 全体の背景：ごく薄いクリーム色 */
+/* 全体の背景：グレー寄り */
 body {
-  background-color: #fbfaf7 !important;
+  background-color: #f8f8f5 !important;
 }
 
 /* 本文全体 */
@@ -46,4 +46,12 @@ body {
   border: 0;
   background-color: #e6ddcf;
   margin: 2rem 0;
+}
+
+.markdown-body a {
+  color: #3b6ea8;
+}
+
+.markdown-body a:hover {
+  color: #254f7a;
 }
