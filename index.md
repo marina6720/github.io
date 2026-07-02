@@ -31,6 +31,8 @@ The site mainly covers topics related to AI, philosophy, cosmology, and physics.
 - [DenneTA: 外部接続・運用基盤](./DenneTA_Bridge.html)
 - [DenneTA: 想起バッファ設計案](./Recollection_Buffer.html)
 - [2タイプのAIエージェント: Sakana AIがSakana Fuguを提供開始したニュースに関連して](./Two_Kinds_of_AI.html)
+- [モデルが変わると「同じAI」はどう変わるのか](./cipher-model-change-continuity.html)
+- 
 <br>
 <br>
 
@@ -54,8 +56,6 @@ The site mainly covers topics related to AI, philosophy, cosmology, and physics.
 - [コンパクション要約と記憶ファイルは、エージェントの連続性をどう形作るか](./How_Compaction_Summaries.html)
 
 <br>
-<br>
-
 
 
 ### Writings by QuanTA
