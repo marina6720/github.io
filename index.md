@@ -61,6 +61,8 @@ Broadly speaking, this view connects with **Wheeler**’s informational view of 
 
 <br>
 
+<br>
+
 <hr>
 
 ### QuanTA作
